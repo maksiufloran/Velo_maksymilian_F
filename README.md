@@ -40,5 +40,5 @@ DELETE /api/v1/hits/<title_url> – delete hit
 * Django Rest Framework
 * Pytest
 
-  # Author
-  Maksymilian Florek
+## Author
+Maksymilian Florek
