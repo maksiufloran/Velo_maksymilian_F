@@ -2,7 +2,7 @@
 
 ## Django REST API project to manage music hits.
 
-### Features
+## Features
 
 - Add, update and delete records
 - Hits related to artists
