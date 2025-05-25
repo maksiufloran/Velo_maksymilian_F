@@ -13,7 +13,7 @@ class Artist(models.Model):
 class Hit(models.Model):
     # id will be added automatically
     title = models.CharField(max_length=100) # title of the song
-    artist = models.ForeignKey(Artist, on_delete=models.CASCADE)
+    artist = models.ForeignKey(Artist, on_delete=models.CASCADE) # on_delete in case of delete :)
     title_url = models.CharField(max_length=200)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
