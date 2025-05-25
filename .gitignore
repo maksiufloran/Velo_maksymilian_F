@@ -172,3 +172,54 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore environment variables/settings files
+*.env
+.env.*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore coverage reports
+htmlcov/
+coverage.xml
+.cache/
+.tox/
+nosetests.xml
+*.cover
+*.py,cover
+
+# Ignore mypy
+.mypy_cache/
+.dmypy.json
+
+# Ignore pytest
+.pytest_cache/
+
+# Ignore test database files
+*.sqlite3
+
+# Ignore VSCode settings (if project used across editors)
+.vscode/
