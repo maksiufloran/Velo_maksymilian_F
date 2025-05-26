@@ -39,6 +39,7 @@ DELETE /api/v1/hits/<title_url> – delete hit
 * Python 3.13
 * Django
 * Django Rest Framework
+* Postgre DB
 * Pytest
 
 ## Author
