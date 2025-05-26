@@ -1,5 +1,5 @@
 # Velo_maksymilian_F
-#*MY DB IS NOT PUBISHED DO YOU HAVE TO USE YOURS*
+#*MY DB IS NOT PUBISHED SO YOU HAVE TO USE YOURS*
 
 ## Django REST API project to manage music hits.
 
