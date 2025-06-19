@@ -1,5 +1,5 @@
 # Velo_maksymilian_F
-# MY DB IS NOT PUBISHED SO YOU HAVE TO CREATE YOUR OWN
+# MY DB IS NOT PUBLISHED SO YOU HAVE TO CREATE YOUR OWN
 
 ## Django REST API project to manage music hits.
 
